@@ -1,1 +1,1 @@
-https://boruto563.github.io/Tic-Tac-Toe/
+https://shatrughan007.github.io/Tic-Tac-Toe/
